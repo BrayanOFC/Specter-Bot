@@ -15,9 +15,9 @@ global.owner = [
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = ''
-global.botname = '(✦◠‿◠)𝑪𝒓𝒐𝒘𝑩𝒐𝒕-𝑴𝑭'
-global.wm = '⏤͟͟͞͞⋆⬪࣪ꥈ🍨★ ׄ ꒱ 𝑪𝒓𝒐𝒘𝑩𝒐𝒕 - 𝑴.𝑭 ୭'
+global.packname = '⪛✰ 𝐒𝐩𝐞𝐜𝐭𝐞𝐫-𝐁𝐨𝐭 ✰⪜'
+global.botname = 's⍴ᥱᥴ𝗍ᥱr-ᑲ᥆𝗍'
+global.wm = '⏤͟͟͞͞⋆⬪࣪ꥈ🌙★ ׄ ꒱ 𝑺𝒑𝒆𝒄𝒕𝒆𝒓-𝑩𝒐𝒕 ୭'
 global.author = '(⁎˃ᴗ˂⁎)𝐌𝐚𝐝𝐞 𝐁𝐲 𝐖𝐢𝐥𝐥𝐙𝐞𝐤𓆪'
 global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ m᥆᥆ᥒ-𝖿᥆rᥴᥱ'
 global.textbot = `≪ 🌙 𝗦𝗣𝗘𝗖𝗧𝗘𝗥-𝗕𝗢𝗧 ≫`
