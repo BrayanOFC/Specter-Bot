@@ -1,4 +1,3 @@
-import fetch from 'node-fetch';
 import fg from 'senna-fg';
 
 let handler = async(m, { conn, args, text }) => {
