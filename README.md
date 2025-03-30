@@ -2,6 +2,8 @@
 
 ---
 
+ <img src="https://files.catbox.moe/ardyba.jpg" alt="Menú Principal">
+</p>
 
 ### **`🌟 Colaboradores`**
 <a href="https://github.com/BrayanOFC/Specter-Bot/graphs/contributors">
