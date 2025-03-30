@@ -2,8 +2,10 @@
 
 ---
 
- <img src="https://files.catbox.moe/ardyba.jpg" alt="Menú Principal">
-</p>
+ <img src="https://files.catbox.moe/ardyba.jpg" alt="Menú Principal"
+width="200" height="200" alt="
+avaricia"/></a>
+</p>  
 
 ---
 
