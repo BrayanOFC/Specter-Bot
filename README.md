@@ -19,12 +19,13 @@
 
 ## **`𝕊𝕡𝕖𝕔𝕥𝕖𝕣 - 𝔹𝕠𝕥`**
 > Es un trabajo en equipo creado por 💫
-[willzek](+505 5786 5603)
 
-[Deylin](https://Wa.me/50488198573)
+[willzek 🎩](https://Wa.me/50557865603)
 
-[Barboza](+58 414-6277368)
+[Deylin 👑](https://Wa.me/50488198573)
 
-[Brayan](+52 664 180 4242)
+[Barboza 🚀](https://Wa.me/584146277368)
+
+[Brayan 🌟](https://Wa.me/526641804242)
 
 </details>
