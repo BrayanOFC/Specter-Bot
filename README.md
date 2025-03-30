@@ -20,12 +20,12 @@
 ## **`𝕊𝕡𝕖𝕔𝕥𝕖𝕣 - 𝔹𝕠𝕥`**
 > Es un trabajo en equipo creado por 💫
 
-[willzek 🎩](https://Wa.me/50557865603)
+[Brayan 🌠](https://Wa.me/6633900512)
 
 [Deylin 👑](https://Wa.me/50488198573)
 
 [Barboza 🚀](https://Wa.me/584146277368)
 
-[Brayan 🌟](https://Wa.me/526641804242)
+[Willzek 🎩](https://Wa.me/50557865603)
 
 </details>
