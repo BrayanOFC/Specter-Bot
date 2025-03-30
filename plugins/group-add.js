@@ -34,7 +34,7 @@ var handler = async (m, { conn, args, text, usedPrefix, command }) => {
     let link = 'https://chat.whatsapp.com/' + await conn.groupInviteCode(group);
 
     // Enviar la invitación al número privado
-    await conn.reply(text + '@s.whatsapp.net', `*🍟 Hola! soy un bot desarrollado por Aamon, Una persona te ha invitado a su grupo.*\n\n*Link*\n${link}`, m, { mentions: [text + '@s.whatsapp.net'] });
+    await conn.reply(text + '@s.whatsapp.net', `*🍟 Hola, Una persona te ha invitado a su grupo.*\n\n*Link*\n${link}`, m, { mentions: [text + '@s.whatsapp.net'] });
     await m.reply(`🍟 *Enviando la invitación al privado de ${nom}*`);
 };
 
