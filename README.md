@@ -2,6 +2,8 @@
 
 ---
 
+[😉](https://files.catbox.moe/ardyba.jpg)
+
 ### **`🌟 Colaboradores`**
 <a href="https://github.com/BrayanOFC/Specter-Bot/graphs/contributors">
 <img src="https://contrib.rocks/image?repo=BrayanOFC/Specter-Bot" /> 
