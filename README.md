@@ -26,7 +26,7 @@
 [Deylin 👑](https://Wa.me/50488198573)
 
 
-[Brayan 🌠] (https://Wa.me/6633900512)
+[Brayan 🌠](https://Wa.me/6633900512)
 
 
 [Willzek 🎩](https://Wa.me/50557865603)
