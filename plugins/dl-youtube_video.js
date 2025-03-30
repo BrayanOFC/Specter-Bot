@@ -19,6 +19,8 @@ await conn.sendMessage(m.chat, {
     m.react(done);
  }
 
+handler.help = ['ytmp4'];
+handler.tag = ['dl'];
 handler.command = ['ytmp4', 'mp4']
 
 export default handler;
