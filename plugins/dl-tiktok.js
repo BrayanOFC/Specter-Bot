@@ -21,8 +21,8 @@ var handler = async (m, { conn, args, usedPrefix, command }) => {
         } else {
             return conn.reply(m.chat, "No se pudo descargar.", m);
         }
-    } catch (error1) {
-        return conn.reply(m.chat, `Error: ${error1.message}`, m);
+    } catch (error) {
+        return conn.reply(m.chat, `Error: ${error.message}`, m);
     }
 };
 
