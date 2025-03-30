@@ -2,7 +2,7 @@
 
 ---
 
-[😉](https://files.catbox.moe/ardyba.jpg)
+<img cos> URL"https://files.catbox.moe/ardyba.jpg"
 
 ### **`🌟 Colaboradores`**
 <a href="https://github.com/BrayanOFC/Specter-Bot/graphs/contributors">
