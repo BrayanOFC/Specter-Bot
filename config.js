@@ -37,8 +37,8 @@ global.namechannel = 'ᑲ᥆𝗍 ᑲᥲrᑲ᥆zᥲ-ᥲі🌪️'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.catalogo = fs.readFileSync('./storage/img/catalogo.png')
-global.miniurl = fs.readFileSync('./storage/img/miniurl.jpg')
+/*global.catalogo = fs.readFileSync('./storage/img/catalogo.png')
+global.miniurl = fs.readFileSync('./storage/img/miniurl.jpg')*/
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
